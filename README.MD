@@ -5,4 +5,4 @@ This private repository contains all design-related assets, files, and documents
 ## Guidelines
 
 - Keep files organized with proper structures and naming conventions.
-- Commit with clear update messages
+- Commit with clear update messages.
